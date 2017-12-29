@@ -1,6 +1,7 @@
 from django.test import TestCase
 from django.urls import reverse, resolve
 from .views import signup
+from django.contrib.auth.forms import UserCreationForm
 
 # Create your tests here.
 class SignUpTests(TestCase):
