@@ -1,0 +1,16 @@
+body {
+	background-image: url(../img/shattered.png);
+}
+
+.logo {
+	font-family: 'Peralta', cursive;
+}
+
+.logo a {
+	color: rgba(0,0,0,.9);
+}
+
+.log a:hover,
+.logo a:active {
+	text-decoration: none;
+}
